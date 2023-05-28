@@ -169,12 +169,11 @@ figure > img{
 }
 
 .section-right a{
-	    text-decoration: none;
+	color: var(--bright-blue);
 }
 
 .section-right a:hover{
     color: #766cf1;
-    text-decoration: none;
 }
 
 .proceed {
